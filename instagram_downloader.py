@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-
-# Copyright (c) 2021 Fernando
-# Url: https://github.com/fernandod1/
-# License: MIT
-
 import sys
 import requests
 import time
