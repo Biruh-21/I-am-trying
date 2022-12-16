@@ -1,5 +1,5 @@
 # Instagram downloader
-Instagram user's photos and videos downloader. Download all media files from any public username. Working 2021.
+Instagram user's photos and videos downloader. Download all media files from any public username.
 
 LIMITS: 
 
